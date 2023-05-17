@@ -19,12 +19,12 @@ Caso não tenha instalado, você pode usar o seguinte comando:
 sudo apt-get install maven
 ```
 
-### 2 
+### 2 .
 Em seguida, vá no diretório raíz do seu projeto, onde está localizado o arquivo pom.xml, e digite o seguinte comando:
 ```
 mvn clean package
 ```
-### 3
+### 3.
 Após fazer o passo 2, pode digitar o seguinte comando para executar o servidor do Spring Boot:
 ```
 java -jar nome-do-arquivo.jar
